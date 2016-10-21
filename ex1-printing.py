@@ -1,0 +1,9 @@
+# Basic printing of strings to the screen
+print "Hello World!"
+print "Hello again"
+print "I like typing this."
+print "This is fun."
+# print "Yay! Printing."
+print "I'd much rather you 'not'."
+print 'I "said" do not touch this.'
+print "This is another line."
